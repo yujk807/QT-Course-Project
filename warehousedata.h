@@ -37,3 +37,4 @@ struct Record {
 };
 
 #endif // WAREHOUSEDATA_H
+
