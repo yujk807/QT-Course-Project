@@ -215,3 +215,4 @@ QList<Record> DbManager::getAllRecords() {
     }
     return list;
 }
+
