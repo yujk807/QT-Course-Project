@@ -58,3 +58,4 @@ QVariant RecordModel::headerData(int section, Qt::Orientation orientation, int r
     }
     return QVariant();
 }
+
