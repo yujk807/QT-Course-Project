@@ -279,3 +279,4 @@ void MainWindow::onRefreshRecords() {
     m_recordModel->reload();
     ui->statusbar->showMessage("记录表已刷新");
 }
+
