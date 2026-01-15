@@ -73,3 +73,4 @@ Product ProductModel::getProduct(int row) {
         return m_products.at(row);
     return Product();
 }
+
