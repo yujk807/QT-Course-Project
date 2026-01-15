@@ -219,3 +219,4 @@ void DataWorker::doImportStock() {
         emit taskFinished(false, "数据库提交事务失败，导入回滚");
     }
 }
+
